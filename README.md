@@ -1,6 +1,4 @@
-<p align="center">
-<img src="img/lableon.png" width="250" alt="Codeando México">
-</p>
+<img src="img/lableon.png" width="150" alt="Codeando México">
 <!-- __ -->
 
 # Taller de Introducción a los Datos Abiertos
