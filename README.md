@@ -51,3 +51,8 @@ Visualizaciones complejas de datos, interpretación y publicación de los datos 
 - Herramientas de publicación.
 - Poryectos de código abierto y el uso de los datos.
 - Mejores prácticas.
+
+## Contacto
+
+**Ricardo Mirón Torres**, Coord. de Datos Abiertos
+ricardomirontorres@gmail.com
