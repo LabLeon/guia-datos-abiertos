@@ -7,12 +7,18 @@
 
 El objetivo del taller es la introducción teórica y práctica a los Datos Abiertos para servidores públicos y ciudadanos, abordando temas sobre la información pública del gobierno y cómo se puede poner a disposición de toda la población de manera accesible, en formatos técnicos y legales que permitan su uso, reutilización y redistribución para cualquier fin que se desee.
 
+## Requerimientos
+
+Para la realización del taller se requiere un total de 3 sesiones en un espacio de trabajo con internet de alta velocidad y un equipo de cómputo personal por asistente.
+
+**Número de personas:** 20 máx.
+**Duración total:** 11 horas aprox.
 
 ## Tabla de contenidos
 
-1. [Parte 1 - Conceptos básicos](#Parte-1---Conceptos-básicos)
-2. [Parte 2 - Análisis y visualización](#Parte-2---Análisis-y-visualización)
-3. [Parte 3 - Mapeo, publicación y colaboración](#Parte-3---Mapeo,-publicación-y-colaboración)
+1. [Parte 1 - Conceptos básicos](#parte-1---conceptos-básicos)
+2. [Parte 2 - Análisis y visualización](#parte-2---análisis-y-visualización)
+3. [Parte 3 - Mapeo, publicación y colaboración](#parte-3---mapeo,-publicación-y-colaboración)
 
 ## Parte 1 - Conceptos básicos
 
