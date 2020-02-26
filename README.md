@@ -1,4 +1,4 @@
-<img src="img/lableon.png" width="150" alt="Codeando México">
+<img src="https://raw.githubusercontent.com/LabLeon/open-data-day/master/assets/images/lableon.png" width="150" alt="Lab León">
 <!-- __ -->
 
 # Taller de Introducción a los Datos Abiertos
